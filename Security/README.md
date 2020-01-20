@@ -15,7 +15,7 @@ $ nohup python -m SimpleHTTPServer&
 ```sh
 $ cd / 
 $ nohup python -m SimpleHTTPServer&
-$ exit # To not show the process ...
+$ exit # To not show the process in the terminal ...
 ```
 
 ![Python-http-server](https://storage.googleapis.com/devopstech/Github-photos/python-http-server-1.png)
