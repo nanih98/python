@@ -8,7 +8,7 @@ from email import encoders
 import os.path
 
 email = 'XXXXX'
-password = 'IXXXXXXXXXXX'
+password = 'XXXXXXXXXXXX'
 send_to_email = 'XXXXXXXX'
 subject = 'This is the subject'
 message = 'This is my message'
